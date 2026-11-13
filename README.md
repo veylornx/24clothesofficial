@@ -1,74 +1,71 @@
-"24 Clothes Animated Header" (https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:333333,100:171717&height=220&section=header&text=24%20CLOTHES&fontSize=55&fontColor=F4F1EB&fontAlignY=40&animation=fadeIn&desc=Dream%20Your%20Fashion&descSize=18&descAlignY=60&descColor=D6D0C5)
+"24 Clothes" (https://capsule-render.vercel.app/api?type=rect&color=101010&height=270&section=header&text=24C&fontSize=100&fontColor=E8DDC8&fontAlignY=43&animation=fadeIn&desc=24%20CLOTHES%20%7C%20DREAM%20YOUR%20FASHION&descSize=13&descAlignY=75&descColor=C6B99F)
 
-<div align="center">""Typing SVG" (https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3000&pause=1000&color=C2A878&center=true&vCenter=true&width=500&lines=Timeless+Style.;Everyday+Comfort.;Less%2C+but+Better.)" (https://git.io/typing-svg)
+<div align="center">""Typing SVG" (https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=4000&pause=1500&color=B9A783&center=true&vCenter=true&width=480&lines=Timeless+by+Design.;Defined+by+Simplicity.;Made+for+Everyday+Style.)" (https://git.io/typing-svg)
 
-A Modern Clothing Brand
+<br>AN EXPRESSION OF EVERYDAY ELEGANCE
 
-Simple. Timeless. Effortless.
+A contemporary clothing brand inspired by simplicity, timeless aesthetics and effortless style.
 
-<br>""Website" (https://img.shields.io/badge/Official_Website-24_Clothes-171717?style=for-the-badge&logo=vercel&logoColor=white)" (https://24clothesofficial.vercel.app)
-""Instagram" (https://img.shields.io/badge/Instagram-Follow-171717?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/24clothesofficial/)
+<br>" WEBSITE " (https://24clothesofficial.vercel.app)   ·   " INSTAGRAM " (https://www.instagram.com/24clothesofficial/)
 
 </div>---
 
-✦ About 24 Clothes
+THE BRAND
 
-24 Clothes is a modern fashion brand built around timeless design, everyday comfort, and effortless style.
+24 Clothes is built on a simple philosophy: style should feel effortless.
 
-We believe fashion doesn't need to be complicated. The best style is often the simplest.
+We bring together timeless essentials, considered details and everyday comfort to create a modern approach to personal style.
 
-Our goal is to bring clean, comfortable, and versatile fashion into everyday life.
+Our identity is rooted in minimalism. Less noise, more character.
 
-✦ Website Features
+---
 
-- Elegant and minimal design
-- Fully responsive layout
-- Product collections and category filters
+THE COLLECTION
+
+COLLECTION| STYLE
+T-Shirts| Everyday Essentials
+Shirts| Refined Casual
+Denim| Timeless Classics
+
+---
+
+THE EXPERIENCE
+
+- Minimal and elegant shopping interface
+- Responsive mobile and desktop experience
+- Curated product collections
 - Product details and size selection
-- Quantity selection
 - Direct WhatsApp ordering
-- Delivery and exchange information
-- Social media integration
+- Simple and convenient shopping experience
 
-✦ Our Collection
+---
 
-Collection| Description
-T-Shirts| Everyday essentials
-Shirts| Classic everyday style
-Denim| Timeless casual wear
+DELIVERY & EXCHANGE
 
-✦ Delivery & Exchange
-
-Service| Details
+SERVICE| DETAILS
 Inside Chattogram| ৳60
 Outside Chattogram| ৳135
 Exchange| Available
 
-For exchange assistance, contact us through WhatsApp.
+For exchange assistance, please contact us.
 
-✦ Built With
+---
 
-<div align="center">"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Vercel" (https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+BUILT WITH
 
-</div>✦ Project Structure
+<div align="center">"HTML5"   "CSS3"   "JavaScript"
 
-24-clothes/
-│
-└── index.html
+</div>---
 
-✦ Explore 24 Clothes
+CONNECT WITH US
 
-<div align="center">""Website" (https://img.shields.io/badge/VISIT_WEBSITE-171717?style=for-the-badge)" (https://24clothesofficial.vercel.app)
-""Instagram" (https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/24clothesofficial/)
-""Facebook" (https://img.shields.io/badge/FACEBOOK-171717?style=for-the-badge&logo=facebook&logoColor=white)" (https://www.facebook.com/24clothesofficial/)
-""TikTok" (https://img.shields.io/badge/TIKTOK-171717?style=for-the-badge&logo=tiktok&logoColor=white)" (https://www.tiktok.com/@24clothesofficial)
+<div align="center">"WEBSITE" (https://24clothesofficial.vercel.app)
 
-""WhatsApp" (https://img.shields.io/badge/ORDER_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (https://wa.me/8801724598086)
+"INSTAGRAM" (https://www.instagram.com/24clothesofficial/)   ·   "FACEBOOK" (https://www.facebook.com/24clothesofficial/)   ·   "TIKTOK" (https://www.tiktok.com/@24clothesofficial)
 
-Email: 24clothesofficial@gmail.com
+"WHATSAPP" (https://wa.me/8801724598086)
+
+24clothesofficial@gmail.com
 
 </div>---
 
@@ -76,8 +73,10 @@ Email: 24clothesofficial@gmail.com
 
 Dream Your Fashion.
 
-"Footer Animation" (https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:333333&height=110&section=footer)
+<br><sub>© 2026 24 CLOTHES — ALL RIGHTS RESERVED.</sub>
 
-© 2026 24 Clothes. All Rights Reserved.
+<br><br>
+
+"Footer" (https://capsule-render.vercel.app/api?type=rect&color=101010&height=70&section=footer)
 
 </div>

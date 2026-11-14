@@ -1,0 +1,9 @@
+
+{
+  "name": "24-clothes",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}

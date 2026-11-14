@@ -1,0 +1,17 @@
+24 CLOTHES — DIRECT WEBSITE ORDERS + ORDER MESSAGING
+
+GitHub repository changes:
+1. Replace root index.html with this updated index.html.
+2. Replace root admin.html with this updated admin.html.
+3. Replace api/track-order.js with the supplied version.
+4. Add api/order-messages.js.
+
+Keep existing api/orders.js, api/products.js, api/admin-login.js, package.json and Vercel environment variables (MONGODB_URI, JWT_SECRET, ADMIN_PASSWORD).
+
+Customer orders now POST directly to /api/orders. They no longer submit orders through WhatsApp. The floating WhatsApp button remains only as a general contact shortcut.
+Customer tracking checks Order ID + checkout phone and returns a 30-day order-scoped access token. The token allows the customer to read/send messages only for that order.
+Admin replies require the existing admin JWT. Messages are stored in each order document under messages (maximum 200 messages per order).
+
+Before launch, test one order end-to-end: create it on the site, check Admin > Orders, update status, track using its Order ID and phone, send a customer message, then reply from Admin > Messages.
+
+IMPORTANT: Do not put passwords, MongoDB URI, or JWT secrets into HTML or GitHub. Ensure Vercel still has the existing environment variables.

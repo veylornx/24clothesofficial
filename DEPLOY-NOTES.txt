@@ -1,3 +1,0 @@
-24 CLOTHES FINAL PROJECT
-
-Upload extracted contents to GitHub repository ROOT. Required Vercel env vars: MONGODB_URI, JWT_SECRET, ADMIN_PASSWORD. Never upload real secrets. Framework Preset: Other; Root Directory: ./; Build Command and Output Directory: blank. Full instructions: README.md.
